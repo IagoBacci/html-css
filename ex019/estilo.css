@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: lime;
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color: aqua;
+}
+h1#frango{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+}
+.doidera{
+    color: beige;
+}
